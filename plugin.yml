@@ -1,0 +1,9 @@
+name: Dope_Kity
+main: Mikul\Main
+author: Mikul
+version: 1.2
+api: 3.14.0
+
+commands:
+  kit:
+    description: Komenda kit
